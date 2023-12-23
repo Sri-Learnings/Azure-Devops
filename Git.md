@@ -17,3 +17,5 @@ First time setup from local. like git config --global
 ![sdhdjh](https://github.com/Sri-Learnings/Azure-Devops/assets/130881628/415b52a7-d7e5-4cfe-9d7f-b6805b4c58c9)
 
 # When cloning git URL local git repo and .git will be created  automatically 
+# git merge - maintain history 
+# git rebase - doesn't maintain the history
