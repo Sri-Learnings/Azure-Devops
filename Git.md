@@ -14,5 +14,6 @@ First time setup from local. like git config --global
 
 ![dfsdgfs](https://github.com/Sri-Learnings/Azure-Devops/assets/130881628/25b721c1-2ad0-496d-997d-bd7a442ed280)
 ![dgsghgsf](https://github.com/Sri-Learnings/Azure-Devops/assets/130881628/f658a0bb-1120-4aa9-b686-43065b8d1105)
+![sdhdjh](https://github.com/Sri-Learnings/Azure-Devops/assets/130881628/415b52a7-d7e5-4cfe-9d7f-b6805b4c58c9)
 
 # When cloning git URL local git repo and .git will be created  automatically 
