@@ -19,3 +19,7 @@ First time setup from local. like git config --global
 # When cloning git URL local git repo and .git will be created  automatically 
 # git merge - maintain history 
 # git rebase - doesn't maintain the history
+# Creating a branch as well switch to that branch
+~~~
+git checkout -b release
+~~~
