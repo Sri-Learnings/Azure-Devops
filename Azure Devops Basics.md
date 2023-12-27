@@ -1,4 +1,4 @@
-[Thursday 4:04 PM] Manikanta Naidu Lenka
+
 Azure DevOps Basics:
 
 ====================
