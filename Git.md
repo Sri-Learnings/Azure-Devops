@@ -23,3 +23,4 @@ First time setup from local. like git config --global
 ~~~
 git checkout -b release
 ~~~
+https://www.youtube.com/watch?v=uh10Z2oauqo&ab_channel=FastTurtle
